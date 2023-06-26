@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RestuRestuCode
 - 👀 I’m interested in create website and app
 - 🌱 I’m currently learning conception web
-- 💞️ I’m looking to collaborate start up alternance
+- 💞️ I’m looking to collaborate start up alternance 12 month
 - 📫 How to reach me axeldeola18@gmail.com
 
 <!---
